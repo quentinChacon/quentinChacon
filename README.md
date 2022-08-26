@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div> 🎒 I'm currently in school at ENI Ecole Informatique in Nantes. </div>
+<div> 🎒 I'm currently in school at ENI Ecole Informatique Nantes. </div>
 
 <div> 💻 I'm learning to code in JAVA. </div>
 
